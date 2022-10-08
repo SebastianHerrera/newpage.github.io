@@ -209,15 +209,15 @@ html::-webkit-scrollbar-thumb{
 }
 
 .container .information .skills .box-container .box:first-child .progress:nth-child(1) .bar span{
-  width: 95%;
-}
-
-.container .information .skills .box-container .box:first-child .progress:nth-child(2) .bar span{
   width: 80%;
 }
 
+.container .information .skills .box-container .box:first-child .progress:nth-child(2) .bar span{
+  width: 60%;
+}
+
 .container .information .skills .box-container .box:first-child .progress:nth-child(3) .bar span{
-  width: 65%;
+  width: 80%;
 }
 
 .container .information .skills .box-container .box:first-child .progress:nth-child(4) .bar span{
@@ -225,11 +225,11 @@ html::-webkit-scrollbar-thumb{
 }
 
 .container .information .skills .box-container .box:last-child .progress:nth-child(1) .bar span{
-  width: 90%;
+  width: 20%;
 }
 
 .container .information .skills .box-container .box:last-child .progress:nth-child(2) .bar span{
-  width: 75%;
+  width: 20%;
 }
 
 .container .information .skills .box-container .box:last-child .progress:nth-child(3) .bar span{
